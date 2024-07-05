@@ -1,6 +1,6 @@
 {
   "name": "mylistv",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
@@ -8,13 +8,16 @@
     "build": "rollup -c"
 
   },
+  "author": "Boreal Software Company",
+  "license": "MIT",
+  "repository": "https://github.com/mdhira-ai/BorealSC-list",
+  "homepage": "https://github.com/mdhira-ai/BorealSC-list",
   "keywords": [
     "list",
     "virtual",
     "react"
   ],
-  "author": "",
-  "license": "MIT",
+
   "description": "",
   "devDependencies": {
     "@babel/preset-react": "^7.24.7",
